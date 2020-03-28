@@ -2,12 +2,11 @@ package org.hucompute.zhistlexws;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.bouncycastle.cert.ocsp.Req;
 import org.hucompute.zhistlexws.model.*;
 import org.hucompute.zhistlexws.model.dummy.DummyDocumentCollection;
-import org.neo4j.shell.util.json.JSONArray;
-import org.neo4j.shell.util.json.JSONException;
-import org.neo4j.shell.util.json.JSONObject;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 import spark.Request;
 import spark.Response;
 
