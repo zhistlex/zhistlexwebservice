@@ -1,6 +1,8 @@
 # zhistlexwebservice
 ZHistLexWebService Implementation TTLab Frankfurt
 
+https://www.texttechnologylab.org
+
 Sample Queries
 
 * http://localhost:5080/docs/records
